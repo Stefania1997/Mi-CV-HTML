@@ -28,6 +28,7 @@ El sistema permite visualizar espacios de coworking, gestionar reservas y simula
 * [Autores](#autores)
 
 ---
+<a name="contexto-del-proyecto"></a>
 
 # 🧠 Contexto del Proyecto
 
